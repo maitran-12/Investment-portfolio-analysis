@@ -23,6 +23,10 @@ Running this analysis revealed that:
 2. The **Calmar Ratio** provided a clearer picture of recovery performance than looking at annual returns alone.
 3. The **Sharpe Ratio** effectively highlighted which assets provided the best return per unit of risk, often outperforming simple benchmarks.
 
+### 📊 Performance charts
+![Cumulative returns](cumulative_returns.png)
+![Risk metrics](risk_metrics.png)
+
 ## 🚀 How to Run locally
 1. Clone the repo:
    ```bash
