@@ -34,6 +34,7 @@ Running this analysis revealed that:
    git clone https://github.com/maitran-12/Investment-portfolio-analysis.git
 
 pip install -r requirements.txt
+
 python investment_portfolio_analysis.py
 
 Developed by Ngoc Mai Tran, to turn raw market data into actionable investment insights.
