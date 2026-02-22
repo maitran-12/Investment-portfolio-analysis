@@ -25,7 +25,8 @@ Running this analysis revealed that:
 
 ### 📊 Performance charts
 ![Cumulative returns](cumulative_returns.png)
-![Risk metrics](risk_metrics.png)
+![Maximum drawdown](max_drawdown.png)
+![Daily return distribution](daily_return_dist.png)
 
 ## 🚀 How to Run locally
 1. Clone the repo:
