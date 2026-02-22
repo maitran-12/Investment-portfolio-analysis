@@ -86,6 +86,7 @@ plt.xlabel('Date', fontsize = 10)
 plt.ylabel('Growth', fontsize = 10)
 plt.legend(loc='upper left', fontsize = 8)
 plt.tick_params(axis='both', labelsize=8)
+plt.savefig('cumulative_returns.png')
 plt.show()
 
 #Maximum drawdown diagram for BP_UK
@@ -100,6 +101,7 @@ plt.title(f'Drawdown of {target_stock}', color='darkred', fontsize=10)
 plt.ylabel('Drawdown percentage (%)')
 plt.axhline(0, color='black', linestyle='-', linewidth=1)
 plt.tick_params(axis='both', labelsize=8)
+plt.savefig('max_drawdown.png')
 plt.show()
 
 #Return distribution
@@ -113,4 +115,5 @@ plt.xlabel('Daily returns',fontsize = 8)
 plt.ylabel('Frequency', fontsize = 8)
 plt.tick_params(axis='both', labelsize = 10)
 plt.legend(loc='upper left', fontsize = 10)
+plt.savefig('daily_return_dist.png')
 plt.show()
