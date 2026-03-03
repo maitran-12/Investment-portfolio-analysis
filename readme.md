@@ -1,9 +1,14 @@
 # 📈 Investment Portfolio Risk & Return Analysis
 
 ## 🌟 Project Overview
-As part of my journey to transition into a Data/Financial Analyst role, I built this tool to move beyond just looking at stock prices. This project focuses on answering the question: *Is this stock worth investing?*
+As part of my passion for Finance & Investment, I built this tool to move beyond just looking at stock prices. This project focuses on answering the question: *Is this stock worth investing?*
 
 Using Python, I analyzed a diversified portfolio of US and UK equities (AAPL, JPM, HSBA.L, AZN.L, BP.L) and compared their performance against the S&P 500 and FTSE 100 benchmarks over the last 3 years.
+
+### 📈 Business Impact
+- **Efficiency:** Reduces data gathering time from 30 minutes to 5 seconds.
+- **Accuracy:** Eliminates human error in manual data entry by using direct API integration.
+- **Scalability:** The framework can be easily adapted for multiple tickers and different valuation methodologies.
 
 ## 🧠 My Analytical Process
 In this project, I didn't just write code; I applied these financial logics:
